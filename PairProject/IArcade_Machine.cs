@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PairProject
 {
-    interface IArcade_Machine
+    public interface IArcade_Machine
     {
 
         void GameSelectoion(Game game);

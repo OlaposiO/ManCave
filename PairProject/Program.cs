@@ -6,7 +6,12 @@ namespace PairProject
     {
         static void Main(string[] args)
         {
-            Man_Cave_OG theCave = new Man_Cave_OG(cheeseMeiser);
+
+
+
+            Man_Cave_OG theCave = new Man_Cave_OG();
+
+        
         }
     }
 }

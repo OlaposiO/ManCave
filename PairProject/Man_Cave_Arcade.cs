@@ -21,6 +21,7 @@ namespace PairProject
             }
         }
 
+        //method chaining maybe
         public void UserSelection(string userChoice)
         {
             _userChoice = userChoice;

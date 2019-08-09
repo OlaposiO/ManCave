@@ -4,7 +4,7 @@ using System.Text;
 
 namespace PairProject
 {
-    interface IBig_Screen
+    public interface IBig_Screen
     {
         string ChangeChannel(Channel channel);
     }
